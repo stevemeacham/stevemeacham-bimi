@@ -10,7 +10,7 @@ Under the following terms:
     in any way that suggests the licensor endorses you or your use.
 License details: https://creativecommons.org/licenses/by/4.0/
 -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="logo-title" aria-describedby="logo-desc" viewBox="0 0 16 16">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" baseProfile="tiny" version="1.2" viewBox="0 0 16 16">
   	<title id="logo-title">Steve Meacham&apos;s Personal Logo</title>
   	<desc id="logo-desc">The initials S and M, depicted as a circle with a zigzag inside.  The circle is a stylized letter S and resembles a light bulb.  The zigzag is a stylized letter M and resembles an incandescent light bulb filament.</desc>
     
@@ -40,12 +40,12 @@ License details: https://creativecommons.org/licenses/by/4.0/
       fill="none" stroke="#b58900" stroke-width="1"></path>
 
     <!-- eacham -->
-    <text aria-hidden="true" x="9.75" y="9.625" style="font-family: GlacialIndifference-Regular,Futura,Trebuchet MS,Arial,sans-serif; fill:#586e75" font-size="1.125">
+    <text x="9.75" y="9.625" font-family="GlacialIndifference-Regular,Futura,Trebuchet MS,Arial,sans-serif" fill="#586e75" font-size="1.125">
       eacham
     </text>
 
     <!-- Trademark Symbol -->
-    <text x="11.75" y="7.625" style="font-family: GlacialIndifference-Regular,Futura,Trebuchet MS,Arial,sans-serif; fill:#586e75" font-size="1">
+    <text x="11.75" y="7.625" font-family="GlacialIndifference-Regular,Futura,Trebuchet MS,Arial,sans-serif" fill="#586e75" font-size="1">
       ™
     </text>
 </svg>
